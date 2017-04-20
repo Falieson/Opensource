@@ -8,8 +8,8 @@
 
 ### Issues
 * 2017 Apr - [jcoreio/crater node7.9](https://github.com/jcoreio/crater/issues/140)
-* 2017 Mar - [jcoreio/crater#webpack2 broken](https://github.com/jcoreio/crater/issues/129)
-* 2017 Mar - [jcoreio/crater#webpack2 broken](https://github.com/jcoreio/crater/issues/113)
+* ~~2017 Mar - [jcoreio/crater#webpack2 broken](https://github.com/jcoreio/crater/issues/129)~~
+* ~~2017 Mar - [jcoreio/crater#webpack2 broken](https://github.com/jcoreio/crater/issues/113)~~
 
 
 ## React-Flexbox-Grid
