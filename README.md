@@ -4,9 +4,11 @@
 # Opensource Contributions
 ## Crater
 ### MRs
-* 2017 Mar - [jcoreio/crater postcss-loader1.2.1](https://github.com/jcoreio/crater/pull/130)
+* 2017 Apr - [ ] [jcoreio/crater crater-requirements](https://github.com/jcoreio/crater/pull/142)
+* 2017 Mar - [x] [jcoreio/crater postcss-loader1.2.1](https://github.com/jcoreio/crater/pull/130)
 
 ### Issues
+* ~~2017 Apr - [jcoreio/crater meteorIsRequired](https://github.com/jcoreio/crater/issues/141)~~ 
 * ~~2017 Apr - [jcoreio/crater node7.9](https://github.com/jcoreio/crater/issues/140)~~ Blocked by Meteor Fiber's dependency on node6
 * ~~2017 Mar - [jcoreio/crater#webpack2 broken](https://github.com/jcoreio/crater/issues/129)~~
 * ~~2017 Mar - [jcoreio/crater#webpack2 broken](https://github.com/jcoreio/crater/issues/113)~~
