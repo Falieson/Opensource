@@ -4,6 +4,8 @@
 # Opensource Contributions
 ## Crater
 ### MRs
+
+- [ ] 2017 Apr - [jcoreio/crater crater-nvmrc-node6](https://github.com/jcoreio/crater/pull/145)
 - [ ] 2017 Apr - [jcoreio/crater crater-pkgjson-org](https://github.com/jcoreio/crater/pull/144)
 - [ ] 2017 Apr - [jcoreio/crater crater-requirements](https://github.com/jcoreio/crater/pull/142)
 - [x] 2017 Mar - [jcoreio/crater postcss-loader1.2.1](https://github.com/jcoreio/crater/pull/130)
