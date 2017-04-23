@@ -19,7 +19,7 @@
 
 # Coming Soon
 ## Opensource Co-Author
-* [thehappyginger/css3-grid](https://github.com/thehappyginger/css3-grid) = Replacement for [kristof?/flexboxgrid](), using css3 css-grid properties
+* [thehappyginger/css3-grid](https://github.com/thehappyginger/css3-grid) = Replacement for [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid), using css3 css-grid properties
 
 ## Opensource Author
 * [falieson/react-css3-grid](https://github.com/Falieson/react-css3-grid) = Replacement for react-flexbox-grid, uses css3 css-grid properties
