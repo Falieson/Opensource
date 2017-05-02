@@ -1,24 +1,26 @@
+Falieson's Opensource Contributions
+=======
 Bookmarks and management of my opensource contributions
+
 
 <!-- TOC depthFrom:1 depthTo:3 orderedList:false updateOnSave:true withLinks:true -->
 
-- [Opensource Author](#opensource-author)
-- [Opensource Contributions](#opensource-contributions)
+- [Author / Maintainer](#author--maintainer)
+- [Contributions](#contributions)
   - [Crater](#crater)
     - [PRs](#prs)
     - [Issues](#issues)
-  - [React-Flexbox-Grid](#react-flexbox-grid)
+  - [React-Flexbox-Grid & Flexboxgrid](#react-flexbox-grid--flexboxgrid)
     - [hidden-cols](#hidden-cols)
 - [Coming Soon](#coming-soon)
-  - [Opensource Co-Author](#opensource-co-author)
-  - [Opensource Author](#opensource-author-1)
+  - [Author](#author)
 
 <!-- /TOC -->
 
-# Opensource Author
+# Author / Maintainer
 * [falieson/planetx-boilerplate-crater](https://github.com/Falieson/planetx-boilerplate-crater) <- `fork:falieson/crater` <- `fork:jcoreio/crater`
 
-# Opensource Contributions
+# Contributions
 ## Crater
 ### PRs
 - [ ] 2017 Apr - [jcoreio/crater create_license_file](https://github.com/jcoreio/crater/pull/147)
@@ -35,18 +37,16 @@ Bookmarks and management of my opensource contributions
 * ~~2017 Mar - [jcoreio/crater#webpack2 broken](https://github.com/jcoreio/crater/issues/129)~~
 * ~~2017 Mar - [jcoreio/crater#webpack2 broken](https://github.com/jcoreio/crater/issues/113)~~
 
-## React-Flexbox-Grid
+## React-Flexbox-Grid & Flexboxgrid
 ### hidden-cols
-- [ ]PR: 2016 Dec: [roylee0703/react-flexbox-grid#hidden-columns](https://github.com/roylee0704/react-flexbox-grid/pull/82)
-- [ ]Issue: 2017 Dec-Apr: [kristoferjoseph/flexboxgrid#hidden-columns](https://github.com/kristoferjoseph/flexboxgrid/pull/211)
+- [ ] PR: 2017 May - [kristoferjoseph/flexboxgrid#FBGHelpersReadme](https://github.com/kristoferjoseph/flexboxgrid/pull/246)
+- ~~Issue: 2017 Dec-May: [kristoferjoseph/flexboxgrid#hidden-columns](https://github.com/kristoferjoseph/flexboxgrid/pull/211)~~
+- [ ] PR: 2016 Dec: [roylee0703/react-flexbox-grid#hidden-columns](https://github.com/roylee0704/react-flexbox-grid/pull/82)
 
 # Coming Soon
-## Opensource Co-Author
-* [thehappyginger/css3-grid](https://github.com/thehappyginger/css3-grid) = Replacement for [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid), using css3 css-grid properties
-
-## Opensource Author
+## Author
 * [falieson/react-css3-grid](https://github.com/Falieson/react-css3-grid) = Replacement for react-flexbox-grid, uses css3 css-grid properties
-* [falieson/react-flexboxgrid-factories]() = for now just... <RowCol breakAtItems={int} />
+* [falieson/react-flexboxgrid-factories]() = for now just... \<RowCol breakAtItems={int} /\>
 * [falieson/react-materialui-factories]() = Material-UI: Factories
 * Material-UI: Auth
 * Material-UI: Shell
