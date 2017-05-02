@@ -1,11 +1,26 @@
-Compilation of my latest opensource work.
+Bookmarks and management of my opensource contributions
+
+<!-- TOC depthFrom:1 depthTo:3 orderedList:false updateOnSave:true withLinks:true -->
+
+- [Opensource Author](#opensource-author)
+- [Opensource Contributions](#opensource-contributions)
+  - [Crater](#crater)
+    - [PRs](#prs)
+    - [Issues](#issues)
+  - [React-Flexbox-Grid](#react-flexbox-grid)
+    - [hidden-cols](#hidden-cols)
+- [Coming Soon](#coming-soon)
+  - [Opensource Co-Author](#opensource-co-author)
+  - [Opensource Author](#opensource-author-1)
+
+<!-- /TOC -->
 
 # Opensource Author
 * [falieson/planetx-boilerplate-crater](https://github.com/Falieson/planetx-boilerplate-crater) <- `fork:falieson/crater` <- `fork:jcoreio/crater`
 
 # Opensource Contributions
 ## Crater
-### MRs
+### PRs
 - [ ] 2017 Apr - [jcoreio/crater create_license_file](https://github.com/jcoreio/crater/pull/147)
 - [ ] 2017 Apr - [jcoreio/crater#webpack2 pr_142-144-145_upgrade-pkgs](https://github.com/jcoreio/crater/pull/146)
 - [ ] 2017 Apr - [jcoreio/crater crater-nvmrc-node6](https://github.com/jcoreio/crater/pull/145)
@@ -20,9 +35,10 @@ Compilation of my latest opensource work.
 * ~~2017 Mar - [jcoreio/crater#webpack2 broken](https://github.com/jcoreio/crater/issues/129)~~
 * ~~2017 Mar - [jcoreio/crater#webpack2 broken](https://github.com/jcoreio/crater/issues/113)~~
 
-
 ## React-Flexbox-Grid
-* 2016 Dec - [roylee0703/react-flexbox-grid#hidden-columns](https://github.com/roylee0704/react-flexbox-grid/pull/82)
+### hidden-cols
+- [ ]PR: 2016 Dec: [roylee0703/react-flexbox-grid#hidden-columns](https://github.com/roylee0704/react-flexbox-grid/pull/82)
+- [ ]Issue: 2017 Dec-Apr: [kristoferjoseph/flexboxgrid#hidden-columns](https://github.com/kristoferjoseph/flexboxgrid/pull/211)
 
 # Coming Soon
 ## Opensource Co-Author
