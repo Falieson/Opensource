@@ -23,11 +23,11 @@ Bookmarks and management of my opensource contributions
 # Contributions
 ## Crater
 ### PRs
-- [ ] 2017 Apr - [jcoreio/crater create_license_file](https://github.com/jcoreio/crater/pull/147)
-- [ ] 2017 Apr - [jcoreio/crater#webpack2 pr_142-144-145_upgrade-pkgs](https://github.com/jcoreio/crater/pull/146)
-- [ ] 2017 Apr - [jcoreio/crater crater-nvmrc-node6](https://github.com/jcoreio/crater/pull/145)
+- [ ] 2017 Apr-May - [jcoreio/crater#webpack2 pr_142-144-145_upgrade-pkgs](https://github.com/jcoreio/crater/pull/146)
+- [ ] 2017 Apr-May - [jcoreio/crater crater-requirements](https://github.com/jcoreio/crater/pull/142)
 - [ ] 2017 Apr - [jcoreio/crater crater-pkgjson-org](https://github.com/jcoreio/crater/pull/144)
-- [ ] 2017 Apr - [jcoreio/crater crater-requirements](https://github.com/jcoreio/crater/pull/142)
+- [x] 2017 Apr - [jcoreio/crater crater-nvmrc-node6](https://github.com/jcoreio/crater/pull/145)
+- [x] 2017 Apr - [jcoreio/crater create_license_file](https://github.com/jcoreio/crater/pull/147)
 - [x] 2017 Mar - [jcoreio/crater postcss-loader1.2.1](https://github.com/jcoreio/crater/pull/130)
 
 ### Issues
@@ -40,7 +40,7 @@ Bookmarks and management of my opensource contributions
 ## React-Flexbox-Grid & Flexboxgrid
 ### hidden-cols
 - [ ] PR: 2017 May - [kristoferjoseph/flexboxgrid#FBGHelpersReadme](https://github.com/kristoferjoseph/flexboxgrid/pull/246)
-- ~~Issue: 2017 Dec-May: [kristoferjoseph/flexboxgrid#hidden-columns](https://github.com/kristoferjoseph/flexboxgrid/pull/211)~~
+- ~~Issue: 2016 Dec-May: [kristoferjoseph/flexboxgrid#hidden-columns](https://github.com/kristoferjoseph/flexboxgrid/pull/211)~~
 - [ ] PR: 2016 Dec: [roylee0703/react-flexbox-grid#hidden-columns](https://github.com/roylee0704/react-flexbox-grid/pull/82)
 
 # Coming Soon
