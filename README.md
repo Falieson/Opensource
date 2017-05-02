@@ -40,9 +40,9 @@ Bookmarks and management of my opensource contributions
 
 ## React-Flexbox-Grid & Flexboxgrid
 ### hidden-cols
-- [ ] PR: 2017 May - [kristoferjoseph/flexboxgrid#FBGHelpersReadme](https://github.com/kristoferjoseph/flexboxgrid/pull/246)
-- ~~Issue: 2016 Dec: [kristoferjoseph/flexboxgrid#hidden-columns](https://github.com/kristoferjoseph/flexboxgrid/pull/211)~~
-- [ ] PR: 2016 Dec: [roylee0703/react-flexbox-grid#hidden-columns](https://github.com/roylee0704/react-flexbox-grid/pull/82)
+- [ ] PR: 2017 May - [kristoferjoseph/flexboxgrid FBGHelpersReadme](https://github.com/kristoferjoseph/flexboxgrid/pull/246)
+- ~~Issue: 2016 Dec: [kristoferjoseph/flexboxgrid hidden-columns](https://github.com/kristoferjoseph/flexboxgrid/pull/211)~~
+- [ ] PR: 2016 Dec: [roylee0703/react-flexbox-grid hidden-columns](https://github.com/roylee0704/react-flexbox-grid/pull/82)
 
 # Coming Soon
 ## Author
