@@ -32,6 +32,7 @@ Bookmarks and management of my opensource contributions
 - [x] 2017 Mar - [jcoreio/crater postcss-loader1.2.1](https://github.com/jcoreio/crater/pull/130)
 
 ### Issues
+- 2017 May - [jcoreio/crater globalCSSloaderBroken](https://github.com/jcoreio/crater/issues/152)
 - ~~2017 Apr - [jcoreio/crater reactPropTypeWarning](https://github.com/jcoreio/crater/issues/149)~~ :: BLOCKED external pkg causing the issue
 - ~~2017 Apr - [jcoreio/crater meteorIsRequired](https://github.com/jcoreio/crater/issues/141)~~ 
 - ~~2017 Apr - [jcoreio/crater node7.9](https://github.com/jcoreio/crater/issues/140)~~ :: BLOCKED by Meteor Fiber's dependency on node6
