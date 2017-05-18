@@ -18,8 +18,9 @@ Bookmarks and management of my opensource contributions
 <!-- /TOC -->
 
 # Author / Maintainer
-- [falieson/planetx-boilerplate-crater](https://github.com/Falieson/planetx-boilerplate-crater) <- `fork:falieson/crater` <- `fork:jcoreio/crater`
-- [falieson/planetx-config-eslint](https://github.com/Falieson/planetx-config-eslint) = eslint settings for planetx packages
+- 2017 May- [falieson/planetx-boilerplate-rsksoa](https://github.com/Falieson/planetx-boilerplate-rsksoa) <- `fork:falieson/react-starter-kit` <- `fork:koistya/react-starter-kit` <- `kriasoft/react-starter-kit`
+- 2017 May -  [falieson/planetx-boilerplate-crater](https://github.com/Falieson/planetx-boilerplate-crater) <- `fork:falieson/crater` <- `fork:jcoreio/crater`
+- 2017 Apr -  [falieson/planetx-config-eslint](https://github.com/Falieson/planetx-config-eslint) = eslint settings for planetx packages
 
 # Contributions
 ## Crater
